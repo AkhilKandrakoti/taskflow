@@ -2,8 +2,8 @@
 
 A production-ready task management application built with **Next.js 14**, **MongoDB**, and deployed on **Vercel**.
 
-**Live URL:** `https://taskflow-<your-name>.vercel.app`  
-**Repository:** `https://github.com/<your-username>/taskflow`
+**Live URL:** `https://taskflow-theta-kohl.vercel.app`  
+**Repository:** `https://github.com/AkhilKandrakoti/taskflow`
 
 ---
 
